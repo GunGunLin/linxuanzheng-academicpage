@@ -39,6 +39,30 @@ On this website, you can explore my publications, research projects, and my ongo
   </a>
 </div>
 
+# Education
+
+<div style="display: flex; position: relative; padding: 20px; margin-bottom: 20px; background-color: #f8f9fa; border-radius: 12px; border-left: 5px solid #2c3e50; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+  <div style="position: absolute; left: -22px; top: 30px; background: white; border: 2px solid #2c3e50; border-radius: 50%; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; z-index: 1;">
+    🎓
+  </div>
+  
+  <div style="margin-left: 25px;">
+    <h3 style="margin: 0 0 10px 0; font-size: 1.15rem; color: #333;">
+      B.Sc. in Information and Computing Science (09/2023 - Expected 06/2027)
+    </h3>
+    <p style="margin: 0; color: #666; line-height: 1.6;">
+      School of AI and Advanced Computing, <br>
+      Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+    </p>
+    <p style="margin-top: 15px;">
+      <a href="https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing/" 
+         style="color: #007bff; text-decoration: none; font-size: 0.95rem;">
+        → Click to visit XJTLU School of AI and Advanced Computing
+      </a>
+    </p>
+  </div>
+</div>
+
 # News
 * **[2026.03]** Started building my academic personal website!
 * **[202X.XX]** [这里可以填你以前的获奖记录或重要经历]
