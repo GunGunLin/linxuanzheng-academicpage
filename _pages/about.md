@@ -19,7 +19,25 @@ Currently, I am working on the **Virtual Histological Staining project** (part o
 
 You can find my CV here: [**Xuanzheng Lin's CV (Updated 2026/03)**](/files/your_cv_file_name.pdf). 
 
----
+On this website, you can explore my publications, research projects, and my ongoing exploration in Interdisciplinary Data Science.If you are interested in potential collaborations or have any questions regarding my work, please feel free to reach out:
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="mailto:xuanzheng.lin23@student.xjtlu.edu.cn" 
+     style="display: inline-block; width: 100%; max-width: 600px; padding: 12px; margin-bottom: 10px; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: #333; transition: all 0.3s ease; box-shadow: 0 1px 3px rgba(0,0,0,0.05);"
+     onmouseover="this.style.backgroundColor='#f8f9fa'; this.style.borderColor='#bbb';"
+     onmouseout="this.style.backgroundColor='transparent'; this.style.borderColor='#ddd';">
+    xuanzheng.lin23@student.xjtlu.edu.cn
+  </a>
+  
+  <br>
+
+  <a href="mailto:2384319332@qq.com" 
+     style="display: inline-block; width: 100%; max-width: 600px; padding: 12px; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: #333; transition: all 0.3s ease; box-shadow: 0 1px 3px rgba(0,0,0,0.05);"
+     onmouseover="this.style.backgroundColor='#f8f9fa'; this.style.borderColor='#bbb';"
+     onmouseout="this.style.backgroundColor='transparent'; this.style.borderColor='#ddd';">
+    2384319332@qq.com
+  </a>
+</div>
 
 # News
 * **[2026.03]** Started building my academic personal website!
