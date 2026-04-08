@@ -64,13 +64,16 @@ On this website, you can explore my publications, research projects, and my ongo
 </div>
 
 # 📚 Selected Publications
-<div style="padding: 15px; background-color: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+<div style="padding: 15px; background-color: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); margin-bottom: 20px;">
   <strong>Enhancing Robustness in UDC Image Restoration Through Adversarial Purification and Fine-Tuning</strong> <br>
   Wenjie Dong, Zhenbo Song, Zhenyuan Zhang, <b>Xuanzheng Lin</b>, Jianfeng Lu <br>
-  [cite_start]<i>Sensors</i>, 2025 [cite: 12, 13] <br>
-  <a href="https://doi.org/10.3390/s25113386" style="color: #007bff; font-size: 0.9rem;">[Paper]</a> 
+  <i>Sensors</i>, 2025 <br>
+  
+  <a href="https://doi.org/10.3390/s25113386" target="_blank" style="color: #007bff; font-size: 0.9rem; text-decoration: none; margin-right: 10px;">[Publisher Site]</a> 
+  <a href="/linxuanzheng-academicpage/files/Sensors_UDC_Lin.pdf" target="_blank" style="color: #007bff; font-size: 0.9rem; text-decoration: none;">[PDF]</a> 
+
   <p style="font-size: 0.85rem; color: #666; margin-top: 5px;">
-    [cite_start]Proposed a diffusion-based adversarial purification framework to fortify UDC image restoration models against adversarial attacks. [cite: 28, 57]
+    Proposed a diffusion-based adversarial purification framework [cite: 5, 28] to fortify Under-Display Camera (UDC) image restoration models [cite: 26] against adversarial attacks[cite: 32]. 
   </p>
 </div>
 
