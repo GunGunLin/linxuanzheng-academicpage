@@ -63,19 +63,39 @@ On this website, you can explore my publications, research projects, and my ongo
   </div>
 </div>
 
-# 📚 Selected Publications
-<div style="padding: 15px; background-color: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); margin-bottom: 20px;">
-  <strong>Enhancing Robustness in UDC Image Restoration Through Adversarial Purification and Fine-Tuning</strong> <br>
-  Wenjie Dong, Zhenbo Song, Zhenyuan Zhang, <b>Xuanzheng Lin</b>, Jianfeng Lu <br>
-  <i>Sensors</i>, 2025 <br>
-  
-  <a href="https://doi.org/10.3390/s25113386" target="_blank" style="color: #007bff; font-size: 0.9rem; text-decoration: none; margin-right: 10px;">[Publisher Site]</a> 
-  <a href="/linxuanzheng-academicpage/files/Sensors_UDC_Lin.pdf" target="_blank" style="color: #007bff; font-size: 0.9rem; text-decoration: none;">[PDF]</a> 
+# Publications
 
-  <p style="font-size: 0.85rem; color: #666; margin-top: 5px;">
-    Proposed a diffusion-based adversarial purification framework [cite: 5, 28] to fortify Under-Display Camera (UDC) image restoration models [cite: 26] against adversarial attacks[cite: 32]. 
-  </p>
-</div>
+*(See detailed information in the [Publications / Writings]({{ site.baseurl }}/publications) section)*
+
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; margin-top: 15px;">
+  <thead style="background-color: #2c3e50; color: white;">
+    <tr>
+      <th style="padding: 15px; text-align: left; width: 70%;">Title</th>
+      <th style="padding: 15px; text-align: center; width: 15%;">Date</th>
+      <th style="padding: 15px; text-align: center; width: 15%;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #eee;">
+      <td style="padding: 15px; font-weight: bold; color: #333;">
+        Enhancing Robustness in UDC Image Restoration Through Adversarial Purification and Fine-Tuning
+      </td>
+      <td style="padding: 15px; text-align: center; color: #666;">May 2025</td>
+      <td style="padding: 15px; text-align: center;">
+        <a href="https://doi.org/10.3390/s25113386" target="_blank" style="color: #007bff; text-decoration: none;">[Sensors]</a>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #eee;">
+      <td style="padding: 15px; font-weight: bold; color: #333;">
+        SmartREC-RAG: Training-free LLM Enhanced Recommendation Systems (Technical Report)
+      </td>
+      <td style="padding: 15px; text-align: center; color: #666;">Apr 2026</td>
+      <td style="padding: 15px; text-align: center;">
+        <a href="https://github.com/Lexie-pq/STAR-Rec-GPT2" target="_blank" style="color: #007bff; text-decoration: none;">[GitHub]</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # 📖 Core Courses
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px;">
