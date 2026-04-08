@@ -84,14 +84,14 @@ On this website, you can explore my publications, research projects, and my ongo
       <td style="padding: 15px; text-align: center;">
         <a href="https://doi.org/10.3390/s25113386" target="_blank" style="color: #007bff; text-decoration: none;">[Sensors]</a>
       </td>
-    </tr>
-    <tr style="border-bottom: 1px solid #eee;">
+  <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 15px; font-weight: bold; color: #333;">
-        SmartREC-RAG: Training-free LLM Enhanced Recommendation Systems (Technical Report)
+        SmartREC-RAG: Training-free LLM Enhanced Recommendation Systems
       </td>
-      <td style="padding: 15px; text-align: center; color: #666;">Apr 2026</td>
+      <td style="padding: 15px; text-align: center; color: #666;">Sep 2025</td>
       <td style="padding: 15px; text-align: center;">
-        <a href="https://github.com/Lexie-pq/STAR-Rec-GPT2" target="_blank" style="color: #007bff; text-decoration: none;">[GitHub]</a>
+        <a href="https://github.com/Lexie-pq/STAR-Rec-GPT2" target="_blank" style="color: #007bff; text-decoration: none; margin-right: 8px;">[GitHub]</a>
+        <a href="/linxuanzheng-academicpage/files/SmartREC_Poster.pdf" target="_blank" style="color: #007bff; text-decoration: none;">[Poster]</a>
       </td>
     </tr>
   </tbody>
