@@ -63,15 +63,33 @@ On this website, you can explore my publications, research projects, and my ongo
   </div>
 </div>
 
-# News
-* **[2026.03]** Started building my academic personal website!
-* **[202X.XX]** [这里可以填你以前的获奖记录或重要经历]
+# 📚 Selected Publications
+<div style="padding: 15px; background-color: #fff; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
+  <strong>Enhancing Robustness in UDC Image Restoration Through Adversarial Purification and Fine-Tuning</strong> <br>
+  Wenjie Dong, Zhenbo Song, Zhenyuan Zhang, <b>Xuanzheng Lin</b>, Jianfeng Lu <br>
+  [cite_start]<i>Sensors</i>, 2025 [cite: 12, 13] <br>
+  <a href="https://doi.org/10.3390/s25113386" style="color: #007bff; font-size: 0.9rem;">[Paper]</a> 
+  <p style="font-size: 0.85rem; color: #666; margin-top: 5px;">
+    [cite_start]Proposed a diffusion-based adversarial purification framework to fortify UDC image restoration models against adversarial attacks. [cite: 28, 57]
+  </p>
+</div>
 
-# Research Interests
-* **Generative AI:** Focus on Diffusion Models and GANs.
-* **AI Security:** Investigating adversarial attacks and defense mechanisms.
-* **Digital Pathology:** Applying deep learning to histopathology image analysis.
-
-# Contact
-* **Email:** [xuanzheng.lin23@student.xjtlu.edu.cn](mailto:xuanzheng.lin23@student.xjtlu.edu.cn)
-* **Location:** Suzhou, China
+# 📖 Core Courses
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px;">
+  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef;">
+    <strong>Mathematics:</strong>
+    <ul style="font-size: 0.9rem; margin-top: 5px;">
+      <li>Numerical Methods</li>
+      <li>Applied Linear Statistical Models</li>
+      <li>Math Foundation for AI & Data Science</li>
+    </ul>
+  </div>
+  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef;">
+    <strong>Computer Science:</strong>
+    <ul style="font-size: 0.9rem; margin-top: 5px;">
+      <li>Data Structures & Algorithms</li>
+      <li>Machine Learning</li>
+      <li>Computer Architecture & OS</li>
+    </ul>
+  </div>
+</div>
