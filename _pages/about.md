@@ -63,7 +63,7 @@ On this website, you can explore my publications, research projects, and my ongo
   </div>
 </div>
 
-# Publications
+# Publications and Writings
 
 *(See detailed information in the [Publications / Writings]({{ site.baseurl }}/publications) section)*
 
@@ -84,32 +84,36 @@ On this website, you can explore my publications, research projects, and my ongo
       <td style="padding: 15px; text-align: center;">
         <a href="https://doi.org/10.3390/s25113386" target="_blank" style="color: #007bff; text-decoration: none;">[Sensors]</a>
       </td>
-  <tr style="border-bottom: 1px solid #eee;">
+    </tr>
+    <tr style="border-bottom: 1px solid #eee;">
       <td style="padding: 15px; font-weight: bold; color: #333;">
         SmartREC-RAG: Training-free LLM Enhanced Recommendation Systems
       </td>
       <td style="padding: 15px; text-align: center; color: #666;">Sep 2025</td>
       <td style="padding: 15px; text-align: center;">
-        <a href="https://github.com/Lexie-pq/STAR-Rec-GPT2" target="_blank" style="color: #007bff; text-decoration: none; margin-right: 8px;">[GitHub]</a>
-        <a href="/linxuanzheng-academicpage/files/SmartREC_Poster.pdf" target="_blank" style="color: #007bff; text-decoration: none;">[Poster]</a>
+        <a href="https://github.com/Lexie-pq/STAR-Rec-GPT2" target="_blank" style="color: #007bff; text-decoration: none; display: block; margin-bottom: 5px;">[GitHub]</a>
+        <a href="{{ site.baseurl }}/files/SmartREC_Poster.pdf" target="_blank" style="color: #007bff; text-decoration: none; display: block;">[Poster]</a>
       </td>
     </tr>
   </tbody>
 </table>
 
+<br>
+
 # 📖 Core Courses
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px;">
-  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef;">
+  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <strong>Mathematics:</strong>
-    <ul style="font-size: 0.9rem; margin-top: 5px;">
+    <ul style="font-size: 0.9rem; margin-top: 5px; line-height: 1.5;">
       <li>Numerical Methods</li>
       <li>Applied Linear Statistical Models</li>
       <li>Math Foundation for AI & Data Science</li>
     </ul>
   </div>
-  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef;">
+  <div style="background: #fdfdfd; padding: 10px; border-radius: 6px; border: 1px solid #efefef; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <strong>Computer Science:</strong>
-    <ul style="font-size: 0.9rem; margin-top: 5px;">
+    <ul style="font-size: 0.9rem; margin-top: 5px; line-height: 1.5;">
       <li>Data Structures & Algorithms</li>
       <li>Machine Learning</li>
       <li>Computer Architecture & OS</li>
