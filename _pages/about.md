@@ -17,7 +17,7 @@ My long-term goal is to advance the frontier of **Interdisciplinary Data Science
 
 Currently, I am working on the **Virtual Histological Staining project** (part of an NSFC general project) to develop **generative models** that transform intraoperative frozen section slides into interpretable pathology images for real-time lung cancer surgery support. Additionally, I have published research on Under-Display Camera (UDC) image restoration in Sensors, focusing on **diffusion-based adversarial defense** , and developed SmartREC-RAG, a **training-free recommendation framework** that enhances LLM-based retrieval through complex behavioral data analysis.
 
-You can find my CV here: [**Xuanzheng Lin's CV (Updated 2026/03)**](/files/CV_Xuanzheng_Lin.pdf). 
+You can find my CV here: [**Xuanzheng Lin's CV (Updated 2026/03)**](/linxuanzheng-academicpage/files/CV_Xuanzheng_Lin.pdf). 
 
 On this website, you can explore my publications, research projects, and my ongoing exploration in Interdisciplinary Data Science.If you are interested in potential collaborations or have any questions regarding my work, please feel free to reach out:
 
